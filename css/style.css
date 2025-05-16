@@ -111,14 +111,9 @@ img {
     border: 2px solid transparent;
 }
 .navbar__right-item-2-item-2 button:hover{
-    font-family: 'Outfit';
     border: 2px solid #2F2F2F;
-    font-weight: 400;
-    font-size: 13px;
-    text-align: center;
     color: #2F2F2F;
     background: transparent;
-    border-radius: 20px;
 }
 .navbar__right-item-2{
     display: flex;
